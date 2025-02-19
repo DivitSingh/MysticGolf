@@ -1,0 +1,10 @@
+﻿  Game.cpp
+C:\Program Files (x86)\Software Development\KrazyGolf (Ubisoft API)\KrazyGolf\Game.cpp(34,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Program Files (x86)\Software Development\KrazyGolf (Ubisoft API)\KrazyGolf\Game.cpp(35,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Program Files (x86)\Software Development\KrazyGolf (Ubisoft API)\KrazyGolf\Game.cpp(35,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Program Files (x86)\Software Development\KrazyGolf (Ubisoft API)\KrazyGolf\Game.cpp(36,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Program Files (x86)\Software Development\KrazyGolf (Ubisoft API)\KrazyGolf\Game.cpp(37,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Program Files (x86)\Software Development\KrazyGolf (Ubisoft API)\KrazyGolf\Game.cpp(37,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  KrazyGolf.vcxproj -> C:\Program Files (x86)\Software Development\KrazyGolf (Ubisoft API)\x64\Debug\KrazyGolf.exe
+  C:\Program Files (x86)\Software Development\KrazyGolf (Ubisoft API)\\KrazyGolf\glut\bin\x64\freeglut.dll
+  1 File(s) copied

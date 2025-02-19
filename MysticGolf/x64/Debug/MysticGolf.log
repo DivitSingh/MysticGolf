@@ -1,0 +1,58 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (KrazyGolf.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  stdafx.cpp
+  app.cpp
+  main.cpp
+  SimpleController.cpp
+  SimpleSound.cpp
+  SimpleSprite.cpp
+  AimArrow.cpp
+  GolfBall.cpp
+  Hole.cpp
+  LevelGenerator.cpp
+  PowerupManager.cpp
+  Rune.cpp
+  Tower.cpp
+  Wall.cpp
+C:\Program Files (x86)\Software Development\MysticGolf (Ubisoft API)\MysticGolf\Custom Classes\Wall.cpp(22,36): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Program Files (x86)\Software Development\MysticGolf (Ubisoft API)\MysticGolf\Custom Classes\Wall.cpp(25,36): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Whirlpool.cpp
+  Game.cpp
+C:\Program Files (x86)\Software Development\MysticGolf (Ubisoft API)\MysticGolf\Game.cpp(59,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Program Files (x86)\Software Development\MysticGolf (Ubisoft API)\MysticGolf\Game.cpp(59,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Program Files (x86)\Software Development\MysticGolf (Ubisoft API)\MysticGolf\Game.cpp(60,109): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Program Files (x86)\Software Development\MysticGolf (Ubisoft API)\MysticGolf\Game.cpp(60,94): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Program Files (x86)\Software Development\MysticGolf (Ubisoft API)\MysticGolf\Game.cpp(60,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Program Files (x86)\Software Development\MysticGolf (Ubisoft API)\MysticGolf\Game.cpp(61,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Program Files (x86)\Software Development\MysticGolf (Ubisoft API)\MysticGolf\Game.cpp(61,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Program Files (x86)\Software Development\MysticGolf (Ubisoft API)\MysticGolf\Game.cpp(62,109): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Program Files (x86)\Software Development\MysticGolf (Ubisoft API)\MysticGolf\Game.cpp(62,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Program Files (x86)\Software Development\MysticGolf (Ubisoft API)\MysticGolf\Game.cpp(62,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  miniaudio.cpp
+  stb_image.cpp
+  Generating Code...
+  MysticGolf.vcxproj -> C:\Program Files (x86)\Software Development\MysticGolf (Ubisoft API)\x64\Debug\MysticGolf.exe
+  C:\Program Files (x86)\Software Development\MysticGolf (Ubisoft API)\\MysticGolf\glut\bin\x64\freeglut.dll
+  1 File(s) copied
+  C:\Program Files (x86)\Software Development\MysticGolf (Ubisoft API)\MysticGolf\Resources\activate.wav
+  C:\Program Files (x86)\Software Development\MysticGolf (Ubisoft API)\MysticGolf\Resources\arrow.png
+  C:\Program Files (x86)\Software Development\MysticGolf (Ubisoft API)\MysticGolf\Resources\ballHit.wav
+  C:\Program Files (x86)\Software Development\MysticGolf (Ubisoft API)\MysticGolf\Resources\ballImmuneSheet.png
+  C:\Program Files (x86)\Software Development\MysticGolf (Ubisoft API)\MysticGolf\Resources\ballSheet.png
+  C:\Program Files (x86)\Software Development\MysticGolf (Ubisoft API)\MysticGolf\Resources\collect.wav
+  C:\Program Files (x86)\Software Development\MysticGolf (Ubisoft API)\MysticGolf\Resources\crate.png
+  C:\Program Files (x86)\Software Development\MysticGolf (Ubisoft API)\MysticGolf\Resources\explosionSheet.png
+  C:\Program Files (x86)\Software Development\MysticGolf (Ubisoft API)\MysticGolf\Resources\ground.png
+  C:\Program Files (x86)\Software Development\MysticGolf (Ubisoft API)\MysticGolf\Resources\hole.png
+  C:\Program Files (x86)\Software Development\MysticGolf (Ubisoft API)\MysticGolf\Resources\holeAppear.wav
+  C:\Program Files (x86)\Software Development\MysticGolf (Ubisoft API)\MysticGolf\Resources\powerup.png
+  C:\Program Files (x86)\Software Development\MysticGolf (Ubisoft API)\MysticGolf\Resources\rune.png
+  C:\Program Files (x86)\Software Development\MysticGolf (Ubisoft API)\MysticGolf\Resources\runeGlow.png
+  C:\Program Files (x86)\Software Development\MysticGolf (Ubisoft API)\MysticGolf\Resources\tower.png
+  C:\Program Files (x86)\Software Development\MysticGolf (Ubisoft API)\MysticGolf\Resources\towerDestroy.wav
+  C:\Program Files (x86)\Software Development\MysticGolf (Ubisoft API)\MysticGolf\Resources\towerDestroyed.png
+  C:\Program Files (x86)\Software Development\MysticGolf (Ubisoft API)\MysticGolf\Resources\wall.png
+  C:\Program Files (x86)\Software Development\MysticGolf (Ubisoft API)\MysticGolf\Resources\wallHit.wav
+  C:\Program Files (x86)\Software Development\MysticGolf (Ubisoft API)\MysticGolf\Resources\whirlpoolReverseSheet.png
+  C:\Program Files (x86)\Software Development\MysticGolf (Ubisoft API)\MysticGolf\Resources\whirlpoolSheet.png
+  C:\Program Files (x86)\Software Development\MysticGolf (Ubisoft API)\MysticGolf\Resources\win.wav
+  22 File(s) copied
